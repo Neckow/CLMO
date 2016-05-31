@@ -63,6 +63,9 @@
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\Resources\settings.png">
+      <PackagePath>Colimo\Resources\settings.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\bin\Debug\Colimo.WinPhone.xr.xml">
       <PackagePath>Colimo.WinPhone.xr.xml</PackagePath>
     </AppxPackagedFile>

@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Colimo.Views {
+namespace Colimo {
     using System;
     using Xamarin.Forms;
     using Xamarin.Forms.Xaml;
     
     
-    public partial class SimpleListPage : global::Xamarin.Forms.ContentPage {
+    public partial class MasterPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(SimpleListPage));
+            this.LoadFromXaml(typeof(MasterPage));
         }
     }
 }
