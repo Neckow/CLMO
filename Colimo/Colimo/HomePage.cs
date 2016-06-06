@@ -8,29 +8,21 @@ using Xamarin.Forms;
 
 namespace Colimo
 {
-    class HomePage : MasterDetailPage
+    public partial class HomePage : MasterDetailPage
     {
         MasterPageCS masterPageCS;
+        ContactsPageCS contactsPageCS;
 
         public HomePage()
         {
 
-            masterPage = new MasterPageCS();
-            Master = masterPage;
-            Detail = new NavigationPage(new ContactsPageCS());
+            masterPageCS = new MasterPageCS();
+            contactsPageCS = new ContactsPageCS();
 
+            Master = masterPageCS;
+            Detail = contactsPageCS;
 
-
-
-
-
-
-
-
-
-
-
-
+            masterPageCS.ListView.ItemSelected += OnItemSelected;
 
 
             //Label header = new Label
@@ -110,6 +102,17 @@ namespace Colimo
 
 
 
+        }
+
+        void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            var item = e.SelectedItem as MasterPageItem;
+            if (item != null)
+            {
+                Detail = (Page)Activator.CreateInstance(item.TargetType);
+                masterPageCS.ListView.SelectedItem = null;
+                IsPresented = false;
+            }
         }
     }
 }

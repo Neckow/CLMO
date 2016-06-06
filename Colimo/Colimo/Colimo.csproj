@@ -38,11 +38,8 @@
     <Compile Include="App.cs" />
     <Compile Include="ContactsPageCS.cs" />
     <Compile Include="HomePage.cs" />
-    <Compile Include="MasterDetailItem.cs" />
     <Compile Include="MasterPageCS.cs" />
     <Compile Include="MasterPageItem.cs" />
-    <Compile Include="NamedColor.cs" />
-    <Compile Include="NamedColorPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TodoListPageCS.cs" />
   </ItemGroup>
@@ -70,11 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Folder Include="Model\" />
     <Folder Include="Resources\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="settings.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.2.0.43\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.2.0.43\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
