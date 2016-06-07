@@ -26,5 +26,8 @@ C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\o
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\R.cs.flag
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\uploadflags.txt
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\bin\Debug\Colimo.dll.mdb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\Colimo.Droid.dll.mdb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\bin\Debug\Colimo.Droid.dll.mdb

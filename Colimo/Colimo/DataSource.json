@@ -1,0 +1,47 @@
+﻿{"people":[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette"
+  },
+  {
+    "id": 3,
+    "name": "George Lucas",
+    "username": "Gogo"
+  },
+  {
+    "id": 4,
+    "name": "Martin Pierre",
+    "username": "Marty"
+  },
+  {
+    "id": 5,
+    "name": "John Doe",
+    "username": "Jojo"
+  },
+  {
+    "id": 6,
+    "name": "Travis Scott",
+    "username": "Travis"
+  },
+  {
+    "id": 7,
+    "name": "Asap Rocky",
+    "username": "Krev"
+  },
+  {
+    "id": 8,
+    "name": "Billie jean",
+    "username": "Truc"
+  },
+   {
+    "id": 9,
+    "name": "Barbar LeGrand",
+    "username":  "Baba"   
+  }
+]}

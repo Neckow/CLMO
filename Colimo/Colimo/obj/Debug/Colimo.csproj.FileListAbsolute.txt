@@ -14,5 +14,12 @@ C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Deb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.pdb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.csprojResolveAssemblyReference.cache
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.Properties.Resources.resources
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.csproj.GenerateResource.Cache
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.View.ToDoGroupedListPage.xaml.g.cs
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.dll.mdb
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Colimo.dll.mdb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.dll.mdb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Colimo.dll.mdb

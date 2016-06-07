@@ -82,6 +82,7 @@ class MonoPackageManager_Resources {
 		"Colimo.Droid.dll",
 		"Colimo.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",

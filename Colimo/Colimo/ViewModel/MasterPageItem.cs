@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Colimo
+namespace Colimo.ViewModel
 {
     internal class MasterPageItem
     {

@@ -1,36 +1,35 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-
+﻿using System.Collections.Generic;
+using Colimo.ViewModel;
 using Xamarin.Forms;
 
-namespace Colimo
+namespace Colimo.View
 {
-    public class MasterPageCS : ContentPage
+    public class MasterPage : ContentPage
     {
-        public ListView ListView => listView;
+        internal ListView _listView { get; }
 
-        ListView listView;
-
-        public MasterPageCS()
+        public MasterPage()
         {
             var masterPageItems = new List<MasterPageItem>
             {
                 new MasterPageItem
                 {
-                    Title = "Contacts",
-                    TargetType = typeof(ContactsPageCS)
+                    Title = "Contact Detail",
+                    TargetType = typeof(ContactDetail)
                 },
                 new MasterPageItem
                 {
-                    Title = "TodoList",
-                    TargetType = typeof(TodoListPageCS)
+                    Title = "Contact List",
+                    TargetType = typeof(ContactList)
+                },
+                new MasterPageItem
+                {
+                    Title = "TodoGroupedList",
+                    TargetType = typeof(ToDoGroupedListPage)
                 }
             };
 
-            listView = new ListView
+            _listView = new ListView
             {
                 ItemsSource = masterPageItems,
                 ItemTemplate = new DataTemplate(() =>
@@ -48,7 +47,7 @@ namespace Colimo
                 VerticalOptions = LayoutOptions.FillAndExpand,
                 Children =
                 {
-                    listView
+                    _listView
                 }
             };
             Title = "Personal Organiser";

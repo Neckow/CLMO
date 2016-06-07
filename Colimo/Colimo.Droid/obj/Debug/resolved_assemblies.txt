@@ -3,6 +3,7 @@ C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\o
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\FormsViewGroup.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\Mono.Android.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\Newtonsoft.Json.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\System.Core.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\System.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\assemblies\System.Xml.dll

@@ -1,10 +1,10 @@
 ﻿using Xamarin.Forms;
 
-namespace Colimo
+namespace Colimo.View
 {
-    public class ContactsPageCS : ContentPage
+    public class ContactDetail : ContentPage
     {
-        public ContactsPageCS()
+        public ContactDetail()
         {
             Title = "Contacts Page";
             Content = new StackLayout

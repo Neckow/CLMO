@@ -24,6 +24,9 @@
     <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Colimo.dll">
       <PackagePath>Colimo.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\packages\Newtonsoft.Json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\packages\Xamarin.Forms.2.0.0.6482\lib\wpa81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
@@ -62,9 +65,6 @@
     <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\Resources\settings.png">
-      <PackagePath>Colimo\Resources\settings.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\bin\Debug\Colimo.WinPhone.xr.xml">
       <PackagePath>Colimo.WinPhone.xr.xml</PackagePath>

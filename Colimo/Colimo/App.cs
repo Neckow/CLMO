@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using Colimo.View;
+using Xamarin.Forms;
 
 namespace Colimo
 {
@@ -7,20 +8,7 @@ namespace Colimo
         public App()
         {
             // The root page of your application
-            MainPage = new NavigationPage(new HomePage()) { };
-            //MainPage = new ContentPage
-            //{
-            //    Content = new StackLayout
-            //    {
-            //        VerticalOptions = LayoutOptions.Center,
-            //        Children = {
-            //            new Label {
-            //                HorizontalTextAlignment = TextAlignment.Center,
-            //                Text = "Welcome to Xamarin Forms!"
-            //            }
-            //        }
-            //    }
-            //};
+            MainPage = new NavigationPage(new MasterDetail());
         }
 
         protected override void OnStart()
