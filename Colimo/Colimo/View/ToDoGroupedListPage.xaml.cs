@@ -4,7 +4,7 @@ using Xamarin.Forms;
 
 namespace Colimo.View
 {
-    public partial class ToDoGroupedListPage : ContentPage
+    public partial class ToDoGroupedListPage
     {
         private ObservableCollection<GroupedVeggieModel> grouped { get; set; }
         public ToDoGroupedListPage()

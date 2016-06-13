@@ -7,6 +7,12 @@ namespace Colimo.View
         public ContactDetail()
         {
             Title = "Contacts Page";
+
+            var logoutBtn = new Button { Text = "Logout" };
+            logoutBtn.Clicked += (sender, e) => {
+                App.Current.Logout();
+            };
+
             Content = new StackLayout
             {
                 Children = {
@@ -14,7 +20,8 @@ namespace Colimo.View
                         Text = "Contacts data goes here",
                         HorizontalOptions = LayoutOptions.Center,
                         VerticalOptions = LayoutOptions.CenterAndExpand
-                    }
+                    },
+                    logoutBtn
                 }
             };
         }

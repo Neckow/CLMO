@@ -48,13 +48,5 @@ C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhon
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\en\Colimo.Properties.Resources.resw
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\layout.resfiles
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\layout.resfiles.intermediate
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\Resources.resfiles
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\Resources.resfiles.intermediate
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\pri.resfiles
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\pri.resfiles.intermediate
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\priconfig.xml
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\priconfig.xml.intermediate
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo.pri
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\Colimo\qualifiers.txt

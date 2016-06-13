@@ -2,11 +2,15 @@
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\colimo\colimo.winphone\obj\debug\intermediatexaml\colimo.winphone.exe" HashGuid="479000a4-353b-33fd-7391-af8e0bb1defd" />
     <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\colimo\colimo\bin\debug\colimo.dll" HashGuid="1eca512b-34ed-8e84-d7ec-27e1dae551a6" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\modernhttpclient.2.4.2\lib\portable-net45+winrt45+wp8+wpa81\modernhttpclient.dll" HashGuid="06558e2e-bf09-53c9-5fa3-375082b5eae2" />
     <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\newtonsoft.json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="74af0f9d-4f96-68dd-0977-2bb867adf196" />
-    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
-    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
-    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
-    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
-    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.3.0.38-pre2\lib\wpa81\xamarin.forms.core.dll" HashGuid="19896429-8a1e-bd78-9efb-2fbcf226ba60" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.pages.2.3.0.38-pre2\lib\wpa81\xamarin.forms.pages.dll" HashGuid="bb3b86b8-5c9a-add2-5d63-50d9f912035b" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.3.0.38-pre2\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.3.0.38-pre2\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="0582f833-519c-0b5c-af4a-4e3bd65d7303" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.3.0.38-pre2\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="ed0eb42c-d027-efc5-2897-d47071690c00" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.theme.base.1.0.0.43-pre1\lib\portable-win+net45+wp80+win81+wpa81+monoandroid10+monotouch10+xamarin.ios10\xamarin.forms.theme.base.dll" HashGuid="a55b467f-81af-0b4b-6abf-082cd0496811" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.theme.light.1.0.0.43-pre1\lib\portable-win+net45+wp80+win81+wpa81+monoandroid10+monotouch10+xamarin.ios10\xamarin.forms.theme.light.dll" HashGuid="5309bd78-46a4-d07d-6ba3-caad3f993aed" />
+    <ReferenceAssembly PathName="c:\users\loic\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.3.0.38-pre2\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="68924db8-a65f-e414-d0af-af182cfb1786" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

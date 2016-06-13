@@ -21,5 +21,3 @@ C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Deb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.View.ToDoGroupedListPage.xaml.g.cs
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.dll.mdb
 C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Colimo.dll.mdb
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\obj\Debug\Colimo.dll.mdb
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\bin\Debug\Colimo.dll.mdb
