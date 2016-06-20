@@ -7,7 +7,7 @@ namespace Colimo.View
     public partial class MasterDetail : MasterDetailPage
     {
         internal MasterPage MasterPage;
-        internal ContactDetail ContactDetail;
+        internal ContactDetail ContactDetail;   
 
         public MasterDetail()
         {
@@ -18,7 +18,8 @@ namespace Colimo.View
             Master = MasterPage;
             Detail = ContactDetail;
 
-            MasterPage._listView.ItemSelected += OnItemSelected;
+
+           MasterPage._listView.ItemSelected += OnItemSelected;
 
         }
 

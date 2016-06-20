@@ -10,20 +10,15 @@ namespace Colimo.View
 {
     public class LoginModal : CarouselPage
     {
-        ContentPage login, create;
+        ContentPage login;
 
         public LoginModal(ILoginManager ilm)
         {
             login = new Login(ilm);
-            create = new CreateAccount(ilm);
             this.Children.Add(login);
-            this.Children.Add(create);
 
             MessagingCenter.Subscribe<ContentPage>(this, "Login", (sender) => {
-                                                                                  this.SelectedItem = login;
-            });
-            MessagingCenter.Subscribe<ContentPage>(this, "Create", (sender) => {
-                                                                                   this.SelectedItem = create;
+                this.SelectedItem = login;
             });
         }
     }

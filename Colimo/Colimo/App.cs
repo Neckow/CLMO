@@ -17,7 +17,7 @@ namespace Colimo
             var isLoggedIn = Properties.ContainsKey("IsLoggedIn") && (bool)Properties["IsLoggedIn"];
 
             // we remember if they're logged in, and only display the login page if they're not
-            if (isLoggedIn)
+            if (!isLoggedIn)
                 MainPage = new MasterDetail();
             else
                 MainPage = new LoginModal(this);

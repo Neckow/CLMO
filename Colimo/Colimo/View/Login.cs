@@ -15,7 +15,6 @@ namespace Colimo.View
         public Login(ILoginManager ilm)
         {
             var loginBtn = new Button {Text = "Login"};
-            var createBtn = new Button {Text = "Create Account"};
 
             loginBtn.Clicked += (sender, e) =>
             {
@@ -31,13 +30,8 @@ namespace Colimo.View
                 }
             };
 
-            createBtn.Clicked += (sender, e) =>
-            {
-                MessagingCenter.Send<ContentPage>(this, "Create");
-            };
-
             username = new Entry {Text = ""};
-            password = new Entry {Text = ""};
+            password = new Entry {Text = "", IsPassword = true};
 
             Content = new StackLayout
             {
@@ -49,8 +43,7 @@ namespace Colimo.View
                     username,
                     new Label {Text = "Password"},
                     password,
-                    loginBtn,
-                    createBtn
+                    loginBtn
                 }
             };
         }

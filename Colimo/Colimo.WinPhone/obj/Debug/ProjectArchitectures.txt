@@ -1,2 +1,2 @@
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\Colimo.WinPhone.csproj;neutral
-C:\Users\Loic\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\Colimo.csproj;neutral
+C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\Colimo.WinPhone.csproj;neutral
+C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\Colimo.csproj;neutral

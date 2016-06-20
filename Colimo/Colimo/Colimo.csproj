@@ -39,7 +39,6 @@
     <Compile Include="ILoginManager.cs" />
     <Compile Include="ViewModel\Person.cs" />
     <Compile Include="View\ContactDetail.cs" />
-    <Compile Include="View\CreateAccount.cs" />
     <Compile Include="View\Login.cs" />
     <Compile Include="View\LoginModal.cs" />
     <Compile Include="View\MasterDetail.cs" />
@@ -85,7 +84,9 @@
       <Private>True</Private>
     </Reference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="menu.svg" />
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
