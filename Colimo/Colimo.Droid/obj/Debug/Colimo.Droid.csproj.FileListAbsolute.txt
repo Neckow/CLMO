@@ -86,5 +86,7 @@ C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Dro
 C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\res\drawable\contacts.png
+C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\res\drawable\menu.png
 C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\obj\Debug\Colimo.Droid.dll.mdb
 C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.Droid\bin\Debug\Colimo.Droid.dll.mdb

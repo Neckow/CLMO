@@ -9,15 +9,12 @@ namespace Colimo
         public static App Current;
         public App()
         {
-            // The root page of your application
-            //MainPage = new NavigationPage(new MasterDetail());
-
             Current = this;
 
             var isLoggedIn = Properties.ContainsKey("IsLoggedIn") && (bool)Properties["IsLoggedIn"];
 
             // we remember if they're logged in, and only display the login page if they're not
-            if (!isLoggedIn)
+            if (isLoggedIn)
                 MainPage = new MasterDetail();
             else
                 MainPage = new LoginModal(this);

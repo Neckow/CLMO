@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\billaudl\documents\visual studio 2015\projects\colimo\colimo\colimo.winphone\obj\debug\intermediatexaml\colimo.winphone.exe" HashGuid="479000a4-353b-33fd-7391-af8e0bb1defd" />
-    <ReferenceAssembly PathName="c:\users\billaudl\documents\visual studio 2015\projects\colimo\colimo\colimo\bin\debug\colimo.dll" HashGuid="eb2cd9cd-0ca7-de98-342d-6846087e242d" />
+    <ReferenceAssembly PathName="c:\users\billaudl\documents\visual studio 2015\projects\colimo\colimo\colimo\bin\debug\colimo.dll" HashGuid="e6e56778-c393-f8b3-0b98-2f9208aedd09" />
     <ReferenceAssembly PathName="c:\users\billaudl\documents\visual studio 2015\projects\colimo\packages\modernhttpclient.2.4.2\lib\portable-net45+winrt45+wp8+wpa81\modernhttpclient.dll" HashGuid="06558e2e-bf09-53c9-5fa3-375082b5eae2" />
     <ReferenceAssembly PathName="c:\users\billaudl\documents\visual studio 2015\projects\colimo\packages\newtonsoft.json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="74af0f9d-4f96-68dd-0977-2bb867adf196" />
     <ReferenceAssembly PathName="c:\users\billaudl\documents\visual studio 2015\projects\colimo\packages\xamarin.forms.2.3.0.38-pre2\lib\wpa81\xamarin.forms.core.dll" HashGuid="19896429-8a1e-bd78-9efb-2fbcf226ba60" />

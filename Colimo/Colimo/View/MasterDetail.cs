@@ -12,14 +12,14 @@ namespace Colimo.View
         public MasterDetail()
         {
 
+
             MasterPage = new MasterPage();
             ContactDetail = new ContactDetail();
 
             Master = MasterPage;
-            Detail = ContactDetail;
+            Detail = new NavigationPage(ContactDetail);
 
-
-           MasterPage._listView.ItemSelected += OnItemSelected;
+            MasterPage._listView.ItemSelected += OnItemSelected;
 
         }
 

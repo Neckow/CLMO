@@ -9,7 +9,11 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>e8ebdf4c-1a3c-4b54-919a-429e98e93142</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joaqu</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\bin\Debug\AppxManifest.xml">
@@ -89,9 +93,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo.WinPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\Colimo\Colimo\menu.svg">
-      <PackagePath>Colimo\menu.svg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\billaudl\Documents\Visual Studio 2015\Projects\Colimo\packages\Xamarin.Forms.2.3.0.38-pre2\lib\wpa81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>

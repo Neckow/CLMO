@@ -13,16 +13,17 @@ namespace Colimo.View
             grouped = new ObservableCollection<GroupedVeggieModel>();
 
             // 2 groups model
-            var veggieGroup = new GroupedVeggieModel() { LongName = "vegetables", ShortName = "v" };
-            var fruitGroup = new GroupedVeggieModel() { LongName = "fruit", ShortName = "f" };
+            var veggieGroup = new GroupedVeggieModel() { LongName = "Vegetables", ShortName = "v" };
+            var fruitGroup = new GroupedVeggieModel() { LongName = "Fruit", ShortName = "f" };
 
-            veggieGroup.Add(new VeggieModel() { Name = "celery", IsReallyAVeggie = true, Comment = "try ants on a log" });
-            veggieGroup.Add(new VeggieModel() { Name = "tomato", IsReallyAVeggie = false, Comment = "pairs well with basil" });
-            veggieGroup.Add(new VeggieModel() { Name = "zucchini", IsReallyAVeggie = true, Comment = "zucchini bread > bannana bread" });
-            veggieGroup.Add(new VeggieModel() { Name = "peas", IsReallyAVeggie = true, Comment = "like peas in a pod" });
-            fruitGroup.Add(new VeggieModel() { Name = "banana", IsReallyAVeggie = false, Comment = "available in chip form factor" });
-            fruitGroup.Add(new VeggieModel() { Name = "strawberry", IsReallyAVeggie = false, Comment = "spring plant" });
-            fruitGroup.Add(new VeggieModel() { Name = "cherry", IsReallyAVeggie = false, Comment = "topper for icecream" });
+            veggieGroup.Add(new VeggieModel() { Name = "Celery", IsReallyAVeggie = true, Comment = "Try ants on a log" });
+            veggieGroup.Add(new VeggieModel() { Name = "Tomato", IsReallyAVeggie = false, Comment = "Pairs well with basil" });
+            veggieGroup.Add(new VeggieModel() { Name = "Zucchini", IsReallyAVeggie = true, Comment = "Zucchini bread > bannana bread" });
+            veggieGroup.Add(new VeggieModel() { Name = "Peas", IsReallyAVeggie = true, Comment = "Like peas in a pod" });
+
+            fruitGroup.Add(new VeggieModel() { Name = "Banana", IsReallyAVeggie = false, Comment = "Available in chip form factor" });
+            fruitGroup.Add(new VeggieModel() { Name = "Strawberry", IsReallyAVeggie = false, Comment = "Spring plant" });
+            fruitGroup.Add(new VeggieModel() { Name = "Cherry", IsReallyAVeggie = false, Comment = "Topper for icecream" });
 
             grouped.Add(veggieGroup);
             grouped.Add(fruitGroup);

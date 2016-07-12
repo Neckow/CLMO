@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colimo.Droid", "Colimo\Colimo.Droid\Colimo.Droid.csproj", "{73916941-9750-45F8-8DBB-61DDA808BD23}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colimo.WinPhone", "Colimo\Colimo.WinPhone\Colimo.WinPhone.csproj", "{FB0C94AB-EE61-4937-9D4E-241F77B259C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colimo", "Colimo\Colimo\Colimo.csproj", "{D4E98A79-00A4-46DF-9E8E-4F6FF7E7CFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colimo.UWP", "Colimo\Colimo.UWP\Colimo.UWP.csproj", "{4A9E494A-46BC-4062-937D-562CB5D5F8F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -229,6 +231,68 @@ Global
 		{D4E98A79-00A4-46DF-9E8E-4F6FF7E7CFE9}.Release|x64.Build.0 = Release|Any CPU
 		{D4E98A79-00A4-46DF-9E8E-4F6FF7E7CFE9}.Release|x86.ActiveCfg = Release|Any CPU
 		{D4E98A79-00A4-46DF-9E8E-4F6FF7E7CFE9}.Release|x86.Build.0 = Release|Any CPU
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|Any CPU.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|Any CPU.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|Any CPU.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|ARM.ActiveCfg = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|ARM.Build.0 = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|ARM.Deploy.0 = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|iPhone.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|iPhone.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|iPhone.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|iPhoneSimulator.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|x64.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|x64.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|x64.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|x86.ActiveCfg = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|x86.Build.0 = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Ad-Hoc|x86.Deploy.0 = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|Any CPU.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|Any CPU.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|Any CPU.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|ARM.ActiveCfg = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|ARM.Build.0 = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|ARM.Deploy.0 = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|iPhone.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|iPhone.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|iPhone.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|iPhoneSimulator.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|iPhoneSimulator.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|iPhoneSimulator.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|x64.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|x64.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|x64.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|x86.ActiveCfg = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|x86.Build.0 = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.AppStore|x86.Deploy.0 = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|Any CPU.Build.0 = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|Any CPU.Deploy.0 = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|ARM.Build.0 = Debug|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|ARM.Deploy.0 = Debug|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|iPhone.ActiveCfg = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|iPhoneSimulator.ActiveCfg = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|x64.ActiveCfg = Debug|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|x64.Build.0 = Debug|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|x64.Deploy.0 = Debug|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|x86.ActiveCfg = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|x86.Build.0 = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Debug|x86.Deploy.0 = Debug|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|Any CPU.ActiveCfg = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|ARM.ActiveCfg = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|ARM.Build.0 = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|ARM.Deploy.0 = Release|ARM
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|iPhone.ActiveCfg = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|iPhoneSimulator.ActiveCfg = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|x64.ActiveCfg = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|x64.Build.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|x64.Deploy.0 = Release|x64
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|x86.ActiveCfg = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|x86.Build.0 = Release|x86
+		{4A9E494A-46BC-4062-937D-562CB5D5F8F3}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
